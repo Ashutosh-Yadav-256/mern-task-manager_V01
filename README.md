@@ -68,8 +68,8 @@ You will need the following software installed on your computer:
     ```
     Create a `.env` file in the `backend` directory and add the following configuration variables. Replace the placeholder values with your own.
     ```env
-    MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_super_secret_jwt_key
+    MONGO_URI=mongodb+srv://tabilij462_db_user:JRqWwcg1f67ixTXK@cluster0.ejataji.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    JWT_SECRET=abc@123-19309
     ```
     Start the backend server.
     ```bash
